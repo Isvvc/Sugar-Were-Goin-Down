@@ -10787,8 +10787,8 @@ Arranged by Elaine Lyons</text>
               </Note>
             <Note>
               <linkedMain/>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10801,8 +10801,8 @@ Arranged by Elaine Lyons</text>
               </Note>
             <Note>
               <linkedMain/>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10815,8 +10815,8 @@ Arranged by Elaine Lyons</text>
               </Note>
             <Note>
               <linkedMain/>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10826,11 +10826,6 @@ Arranged by Elaine Lyons</text>
               <linkedMain/>
               <pitch>62</pitch>
               <tpc>16</tpc>
-              </Note>
-            <Note>
-              <linkedMain/>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
               </Note>
             </Chord>
           </voice>
@@ -34995,8 +34990,8 @@ Arranged by Elaine Lyons</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>66</pitch>
-                <tpc>20</tpc>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -35012,8 +35007,8 @@ Arranged by Elaine Lyons</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>66</pitch>
-                <tpc>20</tpc>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -35029,8 +35024,8 @@ Arranged by Elaine Lyons</text>
               <Note>
                 <linked>
                   </linked>
-                <pitch>66</pitch>
-                <tpc>20</tpc>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -35042,12 +35037,6 @@ Arranged by Elaine Lyons</text>
                   </linked>
                 <pitch>62</pitch>
                 <tpc>16</tpc>
-                </Note>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>66</pitch>
-                <tpc>20</tpc>
                 </Note>
               </Chord>
             </voice>
